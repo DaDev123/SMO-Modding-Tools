@@ -45,3 +45,7 @@
 - Special1WorldHomeStageMap - Dark Side
 
 - Special2WorldHomeStageMap - Darker Side
+
+# Exlaunch | Starlight
+
+- (ExLaunch)[https://github.com/CraftyBoss/SMO-Exlaunch-Base]
