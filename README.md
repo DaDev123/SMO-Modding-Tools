@@ -48,4 +48,6 @@
 
 # Exlaunch | Starlight
 
-[ExLaunch](https://github.com/CraftyBoss/SMO-Exlaunch-Base)
+- **[ExLaunch](https://github.com/CraftyBoss/SMO-Exlaunch-Base)**
+
+- **[Starlight](https://github.com/brycewithfiveunderscores/Starlight-SMO-Example)**
