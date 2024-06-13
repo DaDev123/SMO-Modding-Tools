@@ -51,3 +51,7 @@
 - **[ExLaunch](https://github.com/CraftyBoss/SMO-Exlaunch-Base)**
 
 - **[Starlight](https://github.com/brycewithfiveunderscores/Starlight-SMO-Example)**
+
+# Need Help ?
+
+- Join **[SMO Modding Hub](https://discord.com/invite/Ws3rJmFZhD)** Discord Server !
