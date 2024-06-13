@@ -9,6 +9,7 @@
 
 - **Modify/Create Text:** MSBT Editor
 
+- **Modify Layouts:** SwitchLayoutEditor
 
 # Kingdom Names
 
