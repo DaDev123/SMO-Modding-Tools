@@ -12,36 +12,36 @@
 
 # Kingdom Names
 
-PeachWorldHomeStageMap - Mushroom
+- PeachWorldHomeStageMap - Mushroom
 
-CapWorldHomeStageMap - Cap
+- CapWorldHomeStageMap - Cap
 
-WaterfallWorldHomeStageMap - Cascade
+- WaterfallWorldHomeStageMap - Cascade
 
-SandWorldHomeStageMap - Sand
+- SandWorldHomeStageMap - Sand
 
-LakeWorldHomeStageMap - Lake
+- LakeWorldHomeStageMap - Lake
 
-ForestWorldHomeStageMap - Wooded
+- ForestWorldHomeStageMap - Wooded
 
-CloudWorldHomeStageMap - Cloud
+- CloudWorldHomeStageMap - Cloud
 
-ClashWorldHomeStageMap - Lost
+- ClashWorldHomeStageMap - Lost
 
-CityWorldHomeStageMap - Metro
+- CityWorldHomeStageMap - Metro
 
-SnowWorldHomeStageMap - Snow
+- SnowWorldHomeStageMap - Snow
 
-SeasideWorldHomeStageMap - Seaside
+- SeasideWorldHomeStageMap - Seaside
 
-LavaWorldHomeStageMap - Luncheon
+- LavaWorldHomeStageMap - Luncheon
 
-BossRaidWorldHomeStageMap - Ruined
+- BossRaidWorldHomeStageMap - Ruined
 
-SkyWorldHomeStageMap - Bowser
+- SkyWorldHomeStageMap - Bowser
 
-MoonWorldHomeStageMap - Moon
+- MoonWorldHomeStageMap - Moon
 
-Special1WorldHomeStageMap - Dark Side
+- Special1WorldHomeStageMap - Dark Side
 
-Special2WorldHomeStageMap - Darker Side
+- Special2WorldHomeStageMap - Darker Side
